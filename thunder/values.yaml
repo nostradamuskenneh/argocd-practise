@@ -4,7 +4,7 @@
 
 replicacount: 3 
 image:
-  repository: ljsgjlkds;fgs;lkfjgslkjgskljskljs devopseasylearning2021/washetaria
+  repository: devopseasylearning2021/washetaria23335434434ff
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "001"
